@@ -1,0 +1,10 @@
+C:\Users\Steve\Documents\GitHub\NetCoreWorkshop_4-27-18\bin\Debug\netcoreapp2.0\NetCoreWorkshop_4-27-18.deps.json
+C:\Users\Steve\Documents\GitHub\NetCoreWorkshop_4-27-18\bin\Debug\netcoreapp2.0\NetCoreWorkshop_4-27-18.runtimeconfig.json
+C:\Users\Steve\Documents\GitHub\NetCoreWorkshop_4-27-18\bin\Debug\netcoreapp2.0\NetCoreWorkshop_4-27-18.runtimeconfig.dev.json
+C:\Users\Steve\Documents\GitHub\NetCoreWorkshop_4-27-18\bin\Debug\netcoreapp2.0\NetCoreWorkshop_4-27-18.dll
+C:\Users\Steve\Documents\GitHub\NetCoreWorkshop_4-27-18\bin\Debug\netcoreapp2.0\NetCoreWorkshop_4-27-18.pdb
+C:\Users\Steve\Documents\GitHub\NetCoreWorkshop_4-27-18\obj\Debug\netcoreapp2.0\NetCoreWorkshop_4-27-18.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Documents\GitHub\NetCoreWorkshop_4-27-18\obj\Debug\netcoreapp2.0\NetCoreWorkshop_4-27-18.AssemblyInfoInputs.cache
+C:\Users\Steve\Documents\GitHub\NetCoreWorkshop_4-27-18\obj\Debug\netcoreapp2.0\NetCoreWorkshop_4-27-18.AssemblyInfo.cs
+C:\Users\Steve\Documents\GitHub\NetCoreWorkshop_4-27-18\obj\Debug\netcoreapp2.0\NetCoreWorkshop_4-27-18.dll
+C:\Users\Steve\Documents\GitHub\NetCoreWorkshop_4-27-18\obj\Debug\netcoreapp2.0\NetCoreWorkshop_4-27-18.pdb
