@@ -24,9 +24,8 @@ namespace NetCoreWorkshop_4_27_18
                 for (int i = 1; i <= iterations; i++)
                 {
                     int squared = new Squared(i).Result;
-                    resultOutput += (i * i).ToString() + (i == iterations ? "" : ", ");
+                    resultOutput += (squared).ToString() + (i == iterations ? "" : ", ");
                 }
-
                 Console.WriteLine(resultOutput.ToString());
             }
         }
